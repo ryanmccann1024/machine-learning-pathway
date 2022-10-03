@@ -26,7 +26,7 @@ Videos used to put together this learning pathway:
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Andrew Ng ML Course](https://www.coursera.org/specializations/machine-learning-introduction)
   - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
-  - Basic machine learning algorithms focus
+  - Basic machine learning algorithms focus and in-depth learning
     - Linear regression
     - K-nearest-neighbors
     - Support vector machines

@@ -1,0 +1,7 @@
+October 3rd, 2022
+=================
+
+As of right now my plan is to do the refresher stage on its own. Then, move into Google's intro to ML course and
+the basic ML algorithms. The math related to these algorithms will then be referenced in the stats and matrices books
+I have. But, I intend to read and take notes (locally) for now cover to cover, skipping when I need to reference things
+about certain algorithms. Let's see how this goes!
