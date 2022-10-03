@@ -7,8 +7,7 @@ Videos used to put together this learning pathway:
 
 ### Refresher Stage
 - Data Structures and Algorithms
-  - [Data Structures Cheat Sheet](https://www.interviewcake.com/data-structures-reference)
-    - [Other Cheat Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+  - [Data Structures Cheat Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
   - [Big-O Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
   - [Data Structures and Algorithms Course](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
