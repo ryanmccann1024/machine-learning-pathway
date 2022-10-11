@@ -32,7 +32,6 @@ Videos used to put together this learning pathway:
 ### Advanced Learning Stage (Focus on unsupervised learning for research purposes)
 - Potentially start here: 
   - [Andrew Ng Different ML Specializations](https://www.coursera.org/specializations/machine-learning-introduction)
-  - [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
   - [Lex Friedman Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U)
   - [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 - [Andrew Ng Unsupervised Learning Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
