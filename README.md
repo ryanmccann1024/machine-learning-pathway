@@ -25,7 +25,7 @@ Videos used to put together this learning pathway:
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
-    - Understand how these algorithms work (math included) like the back of your hand!)
+    - Understand how these algorithms work (math included) like the back of your hand!
     - Linear regression
     - K-nearest-neighbors
     - Support vector machines
