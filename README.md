@@ -23,7 +23,7 @@ Videos used to put together this learning pathway:
     - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 - Introductory to machine learning
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-  - [Andrew Ng ML Course](https://www.coursera.org/specializations/machine-learning-introduction)
+  - [Andrew Ng Different ML Courses](https://www.coursera.org/specializations/machine-learning-introduction)
   - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
     - Linear regression
