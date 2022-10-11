@@ -23,7 +23,6 @@ Videos used to put together this learning pathway:
     - [The Matrix Cookbook Book](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 - Introductory to machine learning
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-  - [Andrew Ng Different ML Specializations](https://www.coursera.org/specializations/machine-learning-introduction)
   - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
     - Linear regression
@@ -32,6 +31,7 @@ Videos used to put together this learning pathway:
 
 ### Advanced Learning Stage (Focus on unsupervised learning for research purposes)
 - Potentially start here: 
+  - [Andrew Ng Different ML Specializations](https://www.coursera.org/specializations/machine-learning-introduction)
   - [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
   - [Lex Friedman Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U)
   - [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
