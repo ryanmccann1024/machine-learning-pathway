@@ -4,6 +4,7 @@ Videos used to put together this learning pathway:
 - [Tech With Tim](https://www.youtube.com/watch?v=nl7kDPYD20A&list=PL_7ZkXVd4FT6DZpl2tUmT3_j0KByeImiT&index=6)
 - [Smitha Kolan - ML Engineer](https://www.youtube.com/watch?v=y4o9hrSCDPI&list=PL_7ZkXVd4FT6DZpl2tUmT3_j0KByeImiT&index=4)
 - [Codebasics](https://www.youtube.com/watch?v=T4MLrtOKPjY&list=PL_7ZkXVd4FT6DZpl2tUmT3_j0KByeImiT&index=1)
+- My brain
 
 ### Refresher Stage
 - Data Structures and Algorithms
