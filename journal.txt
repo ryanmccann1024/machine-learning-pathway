@@ -5,3 +5,15 @@ As of right now my plan is to do the refresher stage on its own. Then, move into
 the basic ML algorithms. The math related to these algorithms will then be referenced in the stats and matrices books
 I have. But, I intend to read and take notes (locally) for now cover to cover, skipping when I need to reference things
 about certain algorithms. Let's see how this goes!
+
+October 26th, 2022
+==================
+
+So, I've completed Google's ML crash course and decided the best way to apply my knowledge is to work on very basic
+projects. The first three projects I plan to work on are with existing data sets. Why three projects? Well, one for
+linear regression, logistic regression, and a neural network. After, my plan is to create my own dataset and work on
+another linear regression project.
+
+These projects are meant to be very basic to reinforce what was learned, how to typically structure ML projects, and
+the best places to look for resources if you get stuck. I'll update the README accordingly, wish me luck! Oh, and I
+plan to read the three books under the beginner ML stage alongside workikng on projects.

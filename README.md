@@ -18,21 +18,25 @@ Videos used to put together this learning pathway:
   - [Matplotlib](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - Math (Video supplements TBD)
   - Statistics
-    - [The Elements of Statistical Learning Book](https://hastie.su.domains/Papers/ESLII.pdf)
+    - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
-    - [The Matrix Cookbook Book](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
+    - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 - Introductory to machine learning
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-  - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
+  - [Andrew Ng ML Course](https://www.coursera.org/specializations/machine-learning-introduction)
+  - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
-    - Understand how these algorithms work (math included) like the back of your hand!
     - Linear regression
+    - Logistic regression
     - K-nearest-neighbors
     - Support vector machines
 
-### Advanced Learning Stage (Focus on unsupervised learning for research purposes)
-- Potentially start here: 
-  - [Andrew Ng Different ML Specializations](https://www.coursera.org/specializations/machine-learning-introduction)
-  - [Lex Friedman Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U)
-  - [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
-- [Andrew Ng Unsupervised Learning Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+### Basic Projects
+- [Tech With Tim](https://www.youtube.com/watch?v=BOhgGA7Eu5E)
+- [Kaggle](https://www.kaggle.com/getting-started/317421)
+
+### Advanced Learning Stage (Focus on RL for research purposes)
+- [Dive Into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+- [Lex Friedman Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U)
+- Reinforcement learning TBD
+  - Potentially start here: [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
