@@ -25,10 +25,11 @@ Videos used to put together this learning pathway:
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
-    - Linear regression
-    - Logistic regression
-    - K-nearest-neighbors
-    - Support vector machines
+    - Understand these algorithms, math included, like the back of your hand:
+      - Linear regression
+      - Logistic regression
+      - K-nearest-neighbors
+      - Support vector machines
 
 ### Organization and Project Structure
 - [neptune.ai](https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices)
