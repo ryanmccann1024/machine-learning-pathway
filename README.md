@@ -16,14 +16,13 @@ Videos used to put together this learning pathway:
   - [NumPy](https://www.youtube.com/watch?v=QUT1VHiLmmI)
   - [Pandas](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
   - [Matplotlib](https://www.youtube.com/watch?v=3Xc3CA655Y4)
-- Math (Video supplements TBD)
+- Math
   - Statistics
     - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
     - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 - Introductory to machine learning
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
-  - [Andrew Ng ML Course](https://www.coursera.org/specializations/machine-learning-introduction)
   - [Interpretable ML](https://christophm.github.io/interpretable-ml-book/)
   - Basic machine learning algorithms focus and in-depth learning
     - Linear regression
