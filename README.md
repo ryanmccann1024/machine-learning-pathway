@@ -40,8 +40,8 @@ Videos used to put together this learning pathway:
 - [Tech With Tim](https://www.youtube.com/watch?v=BOhgGA7Eu5E)
 - [Kaggle](https://www.kaggle.com/getting-started/317421)
 
-### Advanced Learning Stage (Focus on RL for research purposes)
-- [Dive Into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+### Advanced Learning Stage
 - [Lex Friedman Deep Learning Basics](https://www.youtube.com/watch?v=O5xeyoRL95U)
-- Reinforcement learning TBD
-  - Potentially start here: [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+- [Lex Friedman Intro to Deep RL](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+- [Dive Into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+- [Andrew Ng Different ML Specializations](https://www.coursera.org/specializations/machine-learning-introduction)
