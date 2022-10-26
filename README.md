@@ -31,14 +31,14 @@ Videos used to put together this learning pathway:
     - K-nearest-neighbors
     - Support vector machines
 
-### Basic Projects
-- [Tech With Tim](https://www.youtube.com/watch?v=BOhgGA7Eu5E)
-- [Kaggle](https://www.kaggle.com/getting-started/317421)
-
 ### Organization and Project Structure
 - [neptune.ai](https://neptune.ai/blog/how-to-organize-deep-learning-projects-best-practices)
 - [Surya Gutta](https://medium.com/analytics-vidhya/folder-structure-for-machine-learning-projects-a7e451a8caaa)
 - [altexsoft](https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/)
+
+### Basic Projects
+- [Tech With Tim](https://www.youtube.com/watch?v=BOhgGA7Eu5E)
+- [Kaggle](https://www.kaggle.com/getting-started/317421)
 
 ### Advanced Learning Stage (Focus on RL for research purposes)
 - [Dive Into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
