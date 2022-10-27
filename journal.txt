@@ -16,4 +16,4 @@ another linear regression project.
 
 These projects are meant to be very basic to reinforce what was learned, how to typically structure ML projects, and
 the best places to look for resources if you get stuck. I'll update the README accordingly, wish me luck! Oh, and I
-plan to read the three books under the beginner ML stage alongside workikng on projects.
+plan to read the three books under the beginner ML stage alongside working on projects.
