@@ -21,6 +21,7 @@ Videos used to put together this learning pathway:
   - Statistics
     - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
+    - [MIT Linear Algebra Course](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
     - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
 - Introductory to machine learning
   - [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
