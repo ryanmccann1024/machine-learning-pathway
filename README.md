@@ -19,7 +19,8 @@ Videos used to put together this learning pathway:
   - [Matplotlib](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - Math
   - Statistics
-    - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+    - [The Elements of Statistical Learning Course](https://youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
+    - [The Elements of Statistical Learning Book](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
     - [MIT Linear Algebra Course](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
     - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf)
