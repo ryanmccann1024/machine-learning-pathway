@@ -20,6 +20,7 @@ Videos used to put together this learning pathway:
 - Math
   - Probability and Statistics
     - [MIT Intro to Probability and Statistics Course](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+    - [Probability and Statistics Cheat Sheet](https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf)
     - [The Elements of Statistical Learning Course](https://youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
     - [The Elements of Statistical Learning Book](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
