@@ -44,3 +44,6 @@ Videos used to put together this learning pathway:
 - [Dive Into Deep Learning Book](https://d2l.ai/chapter_introduction/index.html)
   - Or, use the second part of The Elements of Statistical Learning Book and Course
 - [Andrew Ng Unsupervised Learning Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+
+### Stay Updated
+- TBD
