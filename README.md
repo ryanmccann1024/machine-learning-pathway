@@ -18,7 +18,8 @@ Videos used to put together this learning pathway:
   - [Pandas](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
   - [Matplotlib](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - Math
-  - Statistics
+  - Probability and Statistics
+    - [MIT Intro to Probability and Statistics Course](https://youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
     - [The Elements of Statistical Learning Course](https://youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e)
     - [The Elements of Statistical Learning Book](https://hastie.su.domains/Papers/ESLII.pdf)
   - Linear algebra
