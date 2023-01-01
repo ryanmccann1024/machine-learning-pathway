@@ -42,4 +42,5 @@ Videos used to put together this learning pathway:
 ### Advanced Learning Stage (Deep and Reinforcement Learning)
 - [MIT Intro to Deep Learning](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Dive Into Deep Learning Book](https://d2l.ai/chapter_introduction/index.html)
+  - Or, use the second part of The Elements of Statistical Learning Book and Course
 - [Andrew Ng Unsupervised Learning Course](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
